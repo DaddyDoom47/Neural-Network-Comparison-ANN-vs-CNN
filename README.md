@@ -1,2 +1,2 @@
 # Neural-Network-Comparison-ANN-vs-CNN
-My personal projects 
+#In this notebook, we will classify small images cifar10 dataset from tensorflow keras datasets. There are total 10 classes as shown below. We will use CNN for classification. We will also compare the erformance of ANN and CNN. 
